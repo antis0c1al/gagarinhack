@@ -12,4 +12,4 @@ RUN pip3 install -r requirements.txt
 
 RUN chmod +x /app/baseline.py
 
-CMD ["python3","/app/baselinen.py"]
+CMD ["python3","/app/baseline.py"]
