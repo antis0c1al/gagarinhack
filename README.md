@@ -4,4 +4,5 @@ https://drive.google.com/file/d/1CkR7RQm27zaL-mfBl77qzB58oHxML1aS/view?usp=shari
 Финальные ответы находятся в description.txt
 
 
-![alt text](image.png)
+![alt text](images/image.png)
+![alt text](images/image-1.png)
