@@ -2,3 +2,6 @@
 https://drive.google.com/file/d/1CkR7RQm27zaL-mfBl77qzB58oHxML1aS/view?usp=sharing
 
 Финальные ответы находятся в description.txt
+
+
+![alt text](image.png)
